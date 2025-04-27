@@ -1,7 +1,5 @@
 # Utkarsh (Placements Portal of IIITA)
 
-TODO: wrong docs, update pending
-
 ## Table of Contents
 
 - [Utkarsh (Placements Portal of IIITA)](#utkarsh-placements-portal-of-iiita)
@@ -108,7 +106,7 @@ When deploying with docker, the database, cache, nginx, and daily-backup is auto
 #### Instructions:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/BuddyLongLegs/utkarsh
+    git clone https://github.com/gagan-madhan-16/Utkarsh
     ```
 
 2. Navigate to the project directory:
