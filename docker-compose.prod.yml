@@ -34,7 +34,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: webapp1
+    container_name: webapp2
     restart: unless-stopped
 
     environment:
